@@ -1,0 +1,4 @@
+aiohttp
+strands-agents
+strands-agents[openai]
+strands-agents-tools
